@@ -1,0 +1,48 @@
+header{
+    background-color: black;
+    height: 100px;
+}
+.header{
+    background-color: black;
+    height: 80px;
+    max-width: 1300px;
+    margin: auto;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    
+    
+    
+    
+}
+.logo{
+    
+}
+.menu{
+flex: 1;
+
+display: flex;
+justify-content: flex-end;
+}
+ul{
+    display: flex;
+}
+section{
+    background-color: green;
+    height: 100vh;
+    display: flex;
+
+}
+.re{
+display: flex;
+height: 600px;
+flex: 1;
+}
+.jv{
+
+   
+   width: 1350px;
+}
+body{
+     margin: 0;
+}
